@@ -1,0 +1,2 @@
+layer.sh使用db_bench_l（即分层之后的db_bench）
+test_write.sh需要rocksdb6以及rocksdb7的db_bench
